@@ -6,6 +6,7 @@ La aplicación también permite cancelar citas existentes identificándolas por 
 El usuario interactúa con el sistema a través de un menú en consola que le permite seleccionar las opciones de registro, consulta o cancelación según lo requiera. La implementación asegura que las entradas sean manejadas de manera segura, y el uso de identificadores automáticos simplifica el proceso administrativo. Este sistema es una herramienta funcional y práctica que ejemplifica la aplicación de los principios de la POO en la creación de soluciones orientadas a la gestión médica.
  
 Menú por consola:
+
 ===== Sistema de Atención Médica ===== 
 1. Registrar paciente 
 2. Registrar médico 
